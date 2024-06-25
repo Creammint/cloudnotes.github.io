@@ -4,7 +4,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
   // 路径名为 “/<REPO>/”
-  base: '/cloudnotes.github.io/',
+  base: '/cloudnotes2/',
   // 请不要忘记设置默认语言
   lang: 'zh-CN',
   theme: plumeTheme({
